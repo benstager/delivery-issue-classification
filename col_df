@@ -1,0 +1,9 @@
+idx,columns
+0,carrier_Carrier_B
+1,carrier_Carrier_C
+2,weather_conditions
+3,package_type
+4,location
+5,pop_density
+6,holiday_period
+7,customer_tier
